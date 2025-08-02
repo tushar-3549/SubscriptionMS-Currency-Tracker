@@ -15,13 +15,14 @@ This task allows users to subscribe to plans, track their subscriptions, and vie
 ### Django Admin
 
 Superusers can:
-    - Add / edit / delete Plans
-    - View all Subscriptions
-    - View Exchange Rate Logs
+
+- Add / edit / delete Plans
+- View all Subscriptions
+- View Exchange Rate Logs
 
 ### Frontend UI
 
-  - Path: /subscriptions/
+  - Path: `/subscriptions/`
   - Description: Public-facing page listing all users' subscriptions
   - No login required
   - Powered by Bootstrap
@@ -68,7 +69,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 6. Run Django Server
 ```
 python manage.py migrate
-python manage.py createsuperuser  # Create admin user
+python manage.py createsuperuser 
 python manage.py runserver
 ```
 - Now visit: `http://localhost:8000/subscriptions/`
