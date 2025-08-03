@@ -49,6 +49,20 @@ Superusers can:
 | POST   | `/api/cancel/`               | Cancel a subscription (JWT required)                         |
 | GET    | `/api/exchange-rate/`        | Fetch real-time exchange rate (public, no auth required)     |
 
+***Example***
+
+<img width="1786" height="533" alt="Screenshot from 2025-08-03 10-52-45" src="https://github.com/user-attachments/assets/c0f66e62-29f0-40af-af80-f7023dd3f7c6" />
+<img width="1786" height="533" alt="Screenshot from 2025-08-03 10-59-37" src="https://github.com/user-attachments/assets/332cd205-682a-4f8f-a1f8-4b19628cf2bc" />
+<img width="1786" height="730" alt="Screenshot from 2025-08-03 11-05-59" src="https://github.com/user-attachments/assets/29ff53f4-eafa-4be8-bf8d-275fd580ee4f" />
+<img width="1786" height="472" alt="Screenshot from 2025-08-03 11-07-49" src="https://github.com/user-attachments/assets/decb623f-8a55-4a8a-b616-73bad1f91345" />
+<img width="1788" height="414" alt="Screenshot from 2025-08-03 11-09-30" src="https://github.com/user-attachments/assets/6a79321b-1949-486c-a477-c2073fb343be" />
+
+<img width="1794" height="532" alt="Screenshot from 2025-08-03 11-21-54" src="https://github.com/user-attachments/assets/e47f4b9c-28c5-4184-8e84-94c594498c37" />
+
+<img width="1193" height="581" alt="Screenshot from 2025-08-03 11-26-56" src="https://github.com/user-attachments/assets/28481079-aca2-46ce-aa60-7ddc29abdc34" />
+<img width="1193" height="581" alt="Screenshot from 2025-08-03 11-27-48" src="https://github.com/user-attachments/assets/96a516fd-f29e-4e76-a818-b9c1fd60157f" />
+<img width="1273" height="652" alt="Screenshot from 2025-08-03 11-28-21" src="https://github.com/user-attachments/assets/a3b8f52e-5d04-4a5b-b415-1929cccf2004" />
+<img width="1273" height="652" alt="Screenshot from 2025-08-03 11-28-54" src="https://github.com/user-attachments/assets/c0320279-5272-4d88-a8f3-ebb372d6c2d6" />
 
 
 ### Installation Guide
